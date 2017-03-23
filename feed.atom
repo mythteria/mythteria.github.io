@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<link rel="self" href="/" />
+	<id>/</id>
+	<title>Vasily Povalyaev</title>
+	<rights>2017</rights>
+	<updated>2017-03-23T15:56:19Z</updated>
+	<subtitle>Welcome!</subtitle>
+	<entry>
+		<link href="/posts/nothing-more" />
+		<id>/posts/nothing-more</id>
+		<title>Ничего лишнего</title>
+		<updated>2017-03-23T00:00:00Z</updated>
+		<content>&lt;p&gt;Только код:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-csharp"&gt;namespace System
+{
+    sealed public class String
+    {
+        public override string ToString()
+        {
+            return this;
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;</content>
+		<summary>Welcome!</summary>
+	</entry>
+</feed>
