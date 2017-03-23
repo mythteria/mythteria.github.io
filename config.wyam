@@ -1,0 +1,4 @@
+#recipe Blog
+#n Wyam.Markdown
+#t CleanBlog
+Settings[BlogKeys.Title] = "Vasily Povalyaev";
