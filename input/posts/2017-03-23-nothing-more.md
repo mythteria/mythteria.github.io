@@ -1,5 +1,4 @@
 Title: Ничего лишнего
-Published: 23/3/2017
 Tags: .NET
 ---
 
