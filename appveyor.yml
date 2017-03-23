@@ -3,6 +3,8 @@ branches:
     - wyam
     
 install:
+  # curl
+  - choco install curl
   - git submodule update --init --recursive
   - mkdir ..\Wyam
   - mkdir ..\output
