@@ -1,30 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss version="2.0">
 	<channel>
 		<title>Vasily Povalyaev</title>
 		<link>/</link>
 		<description>Welcome!</description>
 		<copyright>2017</copyright>
-		<pubDate>Thu, 23 Mar 2017 15:56:19 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Mar 2017 15:56:19 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Mar 2017 10:00:14 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Mar 2017 10:00:14 GMT</lastBuildDate>
+		<item>
+			<title>Что необходимо знать про HttpClient</title>
+			<link>/posts/2017-03-24-http-client</link>
+			<description>Welcome!</description>
+			<guid isPermaLink="false">/posts/2017-03-24-http-client</guid>
+			<pubDate>Fri, 24 Mar 2017 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Ничего лишнего</title>
-			<link>/posts/nothing-more</link>
+			<link>/posts/2017-03-23-nothing-more</link>
 			<description>Welcome!</description>
-			<guid isPermaLink="false">/posts/nothing-more</guid>
+			<guid isPermaLink="false">/posts/2017-03-23-nothing-more</guid>
 			<pubDate>Thu, 23 Mar 2017 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;Только код:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-csharp"&gt;namespace System
-{
-    sealed public class String
-    {
-        public override string ToString()
-        {
-            return this;
-        }
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;</content:encoded>
 		</item>
 	</channel>
 </rss>
