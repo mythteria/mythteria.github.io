@@ -1,3 +1,3 @@
-Title: About Me
+Title: About
 ---
 I'm awesome!

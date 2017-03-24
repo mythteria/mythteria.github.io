@@ -1,0 +1,25 @@
+@*
+<div class="ui horizontal divider">
+  About Kamran
+</div>
+
+<div class="ui items">
+  <div class="item">
+    <div class="ui small circular image">
+      <img src="/assets/images/me.jpg" title="Kamran Ayub">
+    </div>
+
+    <div class="content">
+      <div class="description">
+        @Context.String(BlogKeys.Intro)
+      </div>
+      <div class="extra">
+        @Html.Partial("_SocialLinks")
+      </div>
+    </div>
+  </div>
+</div>
+
+
+@Html.Partial("_Disqus")
+*@

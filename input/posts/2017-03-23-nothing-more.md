@@ -1,8 +1,9 @@
 Title: Ничего лишнего
+Published: 2017-03-23
 Tags: .NET
 ---
 
-Только код:
+Ничего личного
 
 ```csharp
 namespace System

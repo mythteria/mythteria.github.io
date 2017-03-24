@@ -1,0 +1,13 @@
+@{
+    Layout = "_Layout.cshtml";
+}
+
+@section Header {
+    @Html.Partial("_PostHeader.cshtml")
+}
+
+<div class="ui basic post content segment">
+  @RenderBody()
+</div>
+
+@Html.Partial("_PostFooter.cshtml")
